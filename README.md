@@ -1,4 +1,4 @@
-SideProjects
+#Side main project
 ============
 
 A collection of fun side-projects that I did along the way ..
